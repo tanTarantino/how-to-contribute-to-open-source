@@ -3,9 +3,9 @@
 <summary>
 <strong> Read this guide in other languages </strong>
 </summary>
-<table>
-	<tr>
+	<ul>
         <li><a href="./README.md"> English </a></li>
+		<li><a href="./README-AL.md">Albanian</a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
@@ -28,24 +28,20 @@
         <li><a href="./README-AR.md">اللغة العربية </a></li>
         <li><a href="./README-TA.md">தமிழ்</a></li>
         <li><a href="./README-NE.md">नेपाली</a></li>
-		<li><a href="./README-AL.md">Albanian</a></li>
-    </tr>
-	</table>
-	
+    </ul>
 </details>
 <!-- Do not translate this -->
 
 # Mirë se vini kontribues fillestarë te Burimit te hapur (Open source)!
 
-[![Si bëhet kërkesa per tërheqje?](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
-[![Vetëm për përdoruesit fillestarë](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Lexo Resurset](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Kjo është lista e resurseve për personat fillestarë që dëshirojnë të kontribojnë në burim të hapur(Open-Source).
+Kjo është lista e resurseve për personat fillestarë që dëshirojnë të kontribojnë në burim të hapur.
 
 Nëse gjeni burime të tjera, ju lutemi kontriboni me kërkesë tërheqje (pull request).
 
-If you have questions or comments, please create an issue.
 Nëse keni pyetje apo komente të tjera, ju lutemi krijoni një qështje (new issue).
 
 **Përmbajtje**
@@ -60,68 +56,67 @@ Nëse keni pyetje apo komente të tjera, ju lutemi krijoni një qështje (new is
 - [Programe me burim të hapur për të marrë pjesë](#programe-me-burim-të-hapur-për-të-marrë-pjesë)
 - [Liçensë](#liçensë)
 
-## Kontributi në Open Source në përgjithësi
+## Kontributi në Open Source në përgjithësi 
 
-> Artukuj dhe burimet që diskutojnë botën dhe kulturën e open source.
+> Artikuj dhe burime që diskutojnë botën dhe kulturën e burimit të hapur.
 
 - [Udhërrëfyes definitiv për kontribuim në Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
-- [një hyrje në Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Krijo të ardhmen me Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
-- [Perfekt për fillestarë](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Udhërrëfyes për Open Source](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 qështje në Github, si bëhet dhe si nuk bëhet](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub udhërrëfyesi](https://docs.github.com/) - basic guides on how to use GitHub effectively.
-- [kontribo në Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Udhërrëfyes Themelorë të Linux për Open Source për Ndërmarje](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS-tricks, një Open Source udhërrëfyes](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [Burime nga A - Zh për Studentë](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
-- ["Si të kontriboni në open source në GitHub" nga Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Kontribimi në Open Source: Një rrugëtim i drejtpërdrejtë nga fillimi deri në fund](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
-- ["Si të kontriboni në projekte open source"  Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
-- ["Si të ja nisni me Open Source" nga Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
-- ["Shfletoni qështje te rreja për të filluar të kontriboni në Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
-- ["Si të kontriboni në projekte open source" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
+- [një hyrje në Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Udhëzime nga DigitalOcean për t'ju udhëhequr në rrugën tuaj drejt suksesit të kontributit këtu në GitHub.
+- [Code Triage](https://www.codetriage.com/) - një mjet tjetër, vërtet i bukur, për të gjetur depo dhe `issies` të njohura të filtruara sipas gjuhës.
+- [Krijo të ardhmen me Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Libër kushtuar shpjegimit të burimit të hapur, si të gjeni një projekt dhe si të filloni të kontribuoni. Përfshirë të gjitha rolet në zhvillimin e softuerit, jo vetëm programuesit.
+- [Perfekt për fillestarë](https://github.com/MunGell/awesome-for-beginners) - një depo GitHub që grumbullon projekte me gabime të mira për kontribuuesit e rinj dhe aplikon etiketa për t'i përshkruar ato.
+- [Udhërrëfyes për Open Source](https://opensource.guide/) - Mbledhja e burimeve për individë, komunitete dhe kompani që duan të mësojnë se si të drejtojnë dhe të kontribuojnë në një projekt me burim të hapur.
+- [45 `issues` në Github, si bëhet dhe si nuk bëhet](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Të bësh dhe të mos bësh në GitHub.
+- [GitHub udhërrëfyesi](https://docs.github.com/) - udhëzues bazë se si të përdorni GitHub në mënyrë efektive.
+- [kontribo në Open Source](https://github.com/danthareja/contribute-to-open-source) - Mësoni rrjedhën e punës GitHub duke kontribuar me kod në një projekt simulimi.
+- [Udhërrëfyes Themelorë të Linux për Open Source për Ndërmarje](https://www.linuxfoundation.org/resources/open-source-guides/) - Udhëzuesit e Fondacionit Linux për projektet me burim të hapur.
+- [CSS-tricks, një Open Source udhërrëfyes](https://css-tricks.com/open-source-etiquette-guidebook/) - Një Udhëzues i Etikës me Burim të Hapur, shkruar nga Kent C. Dodds dhe Sarah Drasner.
+- [Burime nga A - Zh për Studentë](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Lista e kuruar e burimeve dhe mundësive për studentët e kolegjit për të mësuar një gjuhë të re kodimi.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Kjo faqe ka një listë të kërkesave tërheqëse të paraqitura për shqyrtim që i përkasin projekteve me burim të hapur të organizuara në Github.
+- ["Si të kontriboni në open source në GitHub" nga Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Një udhëzues video hap pas hapi se si të filloni të kontribuoni në projektet me burim të hapur në GitHub.
+- [Kontribimi në Open Source: Një rrugëtim i drejtpërdrejtë nga fillimi deri në fund](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Kjo përmbledhje e një kontributi me burim të hapur mbulon gjithçka, nga zgjedhja e një projekti të përshtatshëm, puna për një çështje, deri te bashkimi i PR.
+- ["Si të kontriboni në projekte open source"  Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Autoret janë duke u fokusuar në thelbin e kontributit të një kërkese tërheqëse (PR) në projektin e dikujt tjetër në GitHub.
+- ["Si të ja nisni me Open Source" nga Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Ky artikull mbulon burimet për të kontribuar në burim të hapur për fillestarët bazuar në interesin e gjuhës së tyre të preferuar.
+- ["Shfletoni `issues` te rreja për të filluar të kontriboni në Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub tani ju ndihmon të gjeni çështjet e para të mira për të filluar të kontribuoni në burim të hapur.
+- ["Si të kontriboni në projekte open source" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Ky artikull gjithëpërfshirës i drejtohet bizneseve (por ende i dobishëm për kontribuuesit individualë) ku flet për pse, si dhe në cilat projekte me burim të hapur të kontribuojnë.
 - ["start-here-guidelines" nga Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-  Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
-- ["Duke filluar me open source" nga NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
-- ["Opensoure-4-everyone" nga Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
-- ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
-- ["GitHub Skills"](https://skills.github.com) - Level up your skills with GitHub Skills. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
-- ["Dhjetë rregulla të thjeshtë për te ndihmuar fillestarët të bëhen kontributorë në projekte të hapura"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
-- ["Udhërrëfyes hap-pas-hapi për të kontribuar në GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
-- [Open Source me Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
-- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
-- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
+  Le të fillojë Git në botën e burimeve të hapura, duke filluar në shesh lojërash me burim të hapur. Projektuar posaçërisht për qëllime edukimi dhe përvojë praktike.
+- ["Duke filluar me open source" nga NumFocus](https://github.com/numfocus/getting-started-with-open-source) - një depo GitHub që ndihmon kontribuesit të kapërcejnë pengesat për hyrjen në burim të hapur.
+- ["Opensoure-4-everyone" nga Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - Një depo për gjithçka që lidhet me burimin e hapur. Ky është një projekt për të ndihmuar me dukshmërinë e anëtarësimit në GitHub, praktikën me komandat bazë dhe të avancuara të git, fillimin me burim të hapur dhe më shumë.
+- ["Open Advice"](http://open-advice.org/) - Mbledhja e njohurive nga një shumëllojshmëri e gjerë e projekteve të Software-it të Lirë. Ai i përgjigjet pyetjes se çfarë do të dëshironin të dinin 42 kontribues të shquar kur filluan, në mënyrë që të mund të merrni një fillim, pavarësisht se si dhe ku kontribuoni.
+- ["GitHub Skills"](https://skills.github.com) - Rritni aftësitë tuaja me GitHub Skills. Boti ynë miqësor do t'ju çojë nëpër një sërë projektesh argëtuese dhe praktike për të mësuar aftësitë që ju nevojiten në një kohë të shkurtër—dhe për të ndarë komente të dobishme gjatë rrugës.
+- ["Dhjetë rregulla të thjeshtë për te ndihmuar fillestarët të bëhen kontributorë në projekte të hapura"](https://doi.org/10.1371/journal.pcbi.1007296) - Ky artikull mbulon rregullat e bazuara në studimet e shumë komuniteteve dhe përvojat e anëtarëve, udhëheqësve dhe vëzhguesve.
+- ["Udhërrëfyes hap-pas-hapi për të kontribuar në GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - një udhëzues hap pas hapi me pamje dhe lidhje mbështetëse në lidhje me të gjithë procesin e kontributit në një projekt me burim të hapur.
+- [Open Source me Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Kjo depo përmban burime dhe materiale për të mësuar dhe për të filluar me Open Source, Git dhe GitHub.
+- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - Kjo repo përmban një listë të shkurtesave të përdorura brenda komunitetit FOSS (Free and Open Source), së bashku me përkufizimet dhe përdorimet e tyre.
+- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Udhëzim hap pas hapi se si të kontribuoni në depot e GitHub dhe përfshin një fletë mashtrimi të linjës së komandës git.
 
 ## Kërkimet e drejtpërdrejta në GitHub 
 
-> Lidhjet direkte që dërgojne në « issues » që kontribojnë ne GitHub.
+> Lidhjet direkte që dërgojne në *issues* që kontribojnë ne GitHub.
 
-- [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
-- [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
-- [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
-- [is:issue is:open label:good-first-bug](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
-- [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-- [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
-- [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
-- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:fillestarë](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
+- [is:issue is:open label:lehtë](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
+- [is:issue is:open label:vetem-për-fillestarë](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
+- [is:issue is:open label:bug-i-mirë-i-parë](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
+- [is:issue is:open label:"çështja-e-parë-e-mirë"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [is:issue is:open label:startues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
+- [is:issue is:open label:e-mundshme](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
+- [is:issue is:open label:lehtësisht-e-rregulluar](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
+- [is:issue is:open label:"miqësore-për-fillestarët"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:Kërkesa-jote-e-parë-për-tërheqje](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Ekosistemi kontribues i Mozilla-s
 
+> Mozilla zotohet për një internet të shëndetshëm dhe me të, ka mundësi të kontribuojë në projektet e saj me burim të hapur.
 
-> Mozilla premton për një internet të shëndetshëm, gjë që e mundëson kontribimin në open-source të tij.
-
-- [Disa Bugs'a të parë](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs qe krijuesit i identifikojnë si prezantim të mirë të projektit.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - ndihmoni ekipin e« MDN Web Docs » me dokumentim në platformën e tyre duke rregulluar qështje në përmbajtje dhe Bugs'a.
+- [Disa bugs të parë](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs qe krijuesit i identifikojnë si prezantim të mirë të projektit.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - ndihmoni ekipin e« MDN Web Docs » me dokumentim në platformën e tyre duke rregulluar `issues` në përmbajtje dhe Bugs'a.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs që kanë mentorët dhe qe ju ndihmojnë në IRC kur ngecni përgjatë rregullimit të nje Bug.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - një webfaqe e dedikuar në kërkim të « Bug » në Mozilla.
-- [Firefox DevTools](https://firefox-dev.tools/) - një webfaqe e dedikuar në kërkim të « Bug » për « developer tools » në Firefox.
-- [Qka mund të bë për Mozilla](https://whatcanidoformozilla.org/) - zbuloni se qka mund të punoni duke u përgjigjur pyetjeve përreth aftësive të tua.
-- [Start Mozilla](https://twitter.com/StartMozilla) - llogaria në Twitter që flet për qështje për kontribuesit e rri.
+- [Firefox DevTools](https://firefox-dev.tools/) - një faqe e dedikuar për gabimet e paraqitura për mjetet e zhvilluesit në shfletuesin Firefox.
+- [Çfarë mund të bëj për Mozilla](https://whatcanidoformozilla.org/) - zbuloni se qka mund të punoni duke u përgjigjur pyetjeve përreth aftësive të tua.
+- [Start Mozilla](https://twitter.com/StartMozilla) - një llogari Twitter që cicëron rreth çështjeve të përshtatshme për kontribuesit e rinj në ekosistemin Mozilla.
 
 ## Artikuj të dobishëm për kontribues të rinj me burim të hapur
 
@@ -193,7 +188,7 @@ Nëse keni pyetje apo komente të tjera, ju lutemi krijoni një qështje (new is
 
 ## Iniciativat me burim të hapur
 
-> Lista e iniciativave që përbejnë qështje të kuptueshme për fillestarë
+> Lista e iniciativave që përbejnë `issues` të kuptueshme për fillestarë
 
 - [Up For Grabs](https://up-for-grabs.net/) - Përmban projekte me çështje miqësore për fillestarët.
 - [Vetëm për fillestarë](https://www.firsttimersonly.com/) - Një listë e gabimeve që janë etiketuar "vetëm për herë të parë".
